@@ -9,7 +9,7 @@ if (files.length > 0) {
 	files.forEach((file) => {
 		if (path.extname(file) === ".wav") {
 			const inputPath = file;
-			const outputDir = path.join(__dirname, "ready");
+			const outputDir = path.join(__dirname, "../ready");
 			const outputName = `output-${generateFilename()}.wav`;
 			const outputPath = path.join(outputDir, outputName);
 
