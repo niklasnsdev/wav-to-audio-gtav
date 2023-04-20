@@ -1,9 +1,9 @@
 # wav-to-audio-gtav
 
-Here your can convert .wav files to 16 bit mono for gta5
+Here, you can convert .wav files to 16-bit mono format for use in GTA5.
 
 **Installation**
 
-> Launch the install.bat file and wait for the download to be finished.
+> Launch the install.bat file and wait for the download to finish.
 
-This Repositories was made for [wm-serversirens](https://github.com/Walsheyy/WMServerSirens)
+This repository was originally created for use with [wm-serversirens](https://github.com/Walsheyy/WMServerSirens), but you can also use it for other projects.
