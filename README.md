@@ -2,10 +2,6 @@
 
 Here your can convert .wav files to 16 bit mono for gta5
 
-Installation
+# Installation
 
-open Terminal
-
-`**node init**`
-drag a .wav file onto
-`**draghere.bat**`
+> Launch the install.bat file and wait for the download to be finished.
