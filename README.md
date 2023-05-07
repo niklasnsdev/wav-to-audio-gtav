@@ -1,7 +1,5 @@
 # wav-to-audio-gtav
 
-[![Github Downloads (total)](https://img.shields.io/github/downloads/niklasnsdev/wav-to-audio-gtav/total.svg)]
-
 Here, you can convert .wav files to 16-bit mono format for use in GTA5.
 
 **Installation**
